@@ -12,7 +12,7 @@ It provides immediate free open access to its content in order to support and en
 
 ### Journal history
 
-Cryptogamie, Bryologie is the continuation of the [Revue bryologique](https://www.biodiversitylibrary.org/bibliography/514) (1874-1928) founded by Pierre Tranquille Husnot, the Revue bryologique, nouvelle série (1928-1931), the Revue bryologique et lichénologique (1932-1979) and Cryptogamie, Bryologie-Lichénologie (1980-1998). From 2018, Cryptogamie, Bryologie is published online only with a continuous flow of publication (fast-track).
+Cryptogamie, Bryologie is the continuation of the [Revue bryologique](https://www.biodiversitylibrary.org/bibliography/514) (1874-1928) founded by Pierre Tranquille Husnot, the [Revue bryologique, nouvelle série]() (1928-1931), the [Revue bryologique et lichénologique]() (1932-1979) and [Cryptogamie, Bryologie-Lichénologie]() (1980-1998). From 2018, Cryptogamie, Bryologie is published online only with a continuous flow of publication (fast-track).
 
 ### Journal data
 
