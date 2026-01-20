@@ -4,7 +4,7 @@ layout: home
 title: Cryptogamie, Bryologie
 description: Browse data extracted from our publications
 background: /assets/images/placeholders/hedwigia_ciliata.jpg
-imageLicense:
+imageLicense: _Hedwigia ciliata_ (Hedw.) P.Beauv. Photo I. Draper.
 height: 90vh
 cta:
   - text: Material citations
