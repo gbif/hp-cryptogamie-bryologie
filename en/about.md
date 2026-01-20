@@ -3,7 +3,7 @@ permalink: about
 lang-ref: about
 title: About
 background: /assets/images/placeholders/hedwigia_ciliata.jpg
-imageLicense: _Hedwigia ciliata_ (Hedw.) P.Beauv. Photo Isabel Draper.
+imageLicense: _Hedwigia ciliata_ (Hedw.) P.Beauv. Photo I. Draper.
 height: 70vh
 ---
 [Cryptogamie, Bryologie](https://sciencepress.mnhn.fr/en/periodiques/bryologie) is a fully refereed, international, electronic and diamond open access journal in systematics as well as ecology and evolution of all of bryophytes.
