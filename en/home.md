@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Cryptogamie, Bryologie
 description: Browse data extracted from our publications
-background: /assets/images/placeholders/encalypta_vulgaris.jpg
+background: /assets/images/placeholders/hedwigia_ciliata.jpg
 imageLicense:
 height: 90vh
 cta:
